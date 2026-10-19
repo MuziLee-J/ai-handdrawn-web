@@ -2,6 +2,7 @@
   "name": "ai-handdrawn-web",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "通用 AI 手绘图片创作网页版：照片转手绘、海报排版与导出",
   "scripts": {
     "dev": "next dev",
